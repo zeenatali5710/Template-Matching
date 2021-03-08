@@ -3,7 +3,7 @@ Created algorithm in C to detect and highlight best image match with template (2
 To run the program:
 1. Execute make file
 2. template <source image> <template image to match with>
-  
+ 
   OR
 
 1. Just run existing template.exe with arguments as:
